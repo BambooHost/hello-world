@@ -1,2 +1,3 @@
 # hello-world
-first use and test
+Hello Man,
+          I am a newcoder, I like playing basketball, I think that I am funning.
